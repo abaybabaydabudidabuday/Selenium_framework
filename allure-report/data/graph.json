@@ -1,0 +1,71 @@
+[ {
+  "uid" : "79e8da1f3a723b46",
+  "name" : "Valid Registration Scenario with phone, mail and nickname",
+  "time" : {
+    "start" : 1561367012436,
+    "stop" : 1561367019559,
+    "duration" : 7123
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "15e3c06bee34ec63",
+  "name" : "Valid Registration Scenario with phone, mail and nickname",
+  "time" : {
+    "start" : 1561367026776,
+    "stop" : 1561367039442,
+    "duration" : 12666
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "a9f70318172558ef",
+  "name" : "Valid Registration Scenario with phone, mail and nickname",
+  "time" : {
+    "start" : 1561367053345,
+    "stop" : 1561367068339,
+    "duration" : 14994
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "3208630afe6cee80",
+  "name" : "Valid Registration Scenario with phone, mail and nickname",
+  "time" : {
+    "start" : 1561367039445,
+    "stop" : 1561367053343,
+    "duration" : 13898
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "c0c7848016709527",
+  "name" : "Valid Registration Scenario with phone, mail and nickname",
+  "time" : {
+    "start" : 1561366997106,
+    "stop" : 1561367004975,
+    "duration" : 7869
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+}, {
+  "uid" : "b0716b11edbd299b",
+  "name" : "brokenLinkTest",
+  "time" : {
+    "start" : 1561366997106,
+    "stop" : 1561367021136,
+    "duration" : 24030
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "20f8eb2eadbd4d0",
+  "name" : "Valid Registration Scenario with phone, mail and nickname",
+  "time" : {
+    "start" : 1561367005123,
+    "stop" : 1561367012427,
+    "duration" : 7304
+  },
+  "status" : "passed",
+  "severity" : "blocker"
+} ]

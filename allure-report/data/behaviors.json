@@ -1,0 +1,101 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Regression tests",
+    "children" : [ {
+      "name" : "Login tests",
+      "children" : [ {
+        "name" : "Registration story",
+        "children" : [ {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "c0c7848016709527",
+          "parentUid" : "a5cfc4f3ac6cbf966f5a01c64cfc1696",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561366997106,
+            "stop" : 1561367004975,
+            "duration" : 7869
+          },
+          "flaky" : false,
+          "parameters" : [ "87086441271", "India", "Chrome" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "20f8eb2eadbd4d0",
+          "parentUid" : "a5cfc4f3ac6cbf966f5a01c64cfc1696",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367005123,
+            "stop" : 1561367012427,
+            "duration" : 7304
+          },
+          "flaky" : false,
+          "parameters" : [ "ibrayevabay1@gmail.com", "UK", "Chrome" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "79e8da1f3a723b46",
+          "parentUid" : "a5cfc4f3ac6cbf966f5a01c64cfc1696",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367012436,
+            "stop" : 1561367019559,
+            "duration" : 7123
+          },
+          "flaky" : false,
+          "parameters" : [ "abay_babay", "USA", "Chrome" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "15e3c06bee34ec63",
+          "parentUid" : "a5cfc4f3ac6cbf966f5a01c64cfc1696",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367026776,
+            "stop" : 1561367039442,
+            "duration" : 12666
+          },
+          "flaky" : false,
+          "parameters" : [ "87086441271", "India", "Firefox" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "3208630afe6cee80",
+          "parentUid" : "a5cfc4f3ac6cbf966f5a01c64cfc1696",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367039445,
+            "stop" : 1561367053343,
+            "duration" : 13898
+          },
+          "flaky" : false,
+          "parameters" : [ "ibrayevabay1@gmail.com", "UK", "Firefox" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "a9f70318172558ef",
+          "parentUid" : "a5cfc4f3ac6cbf966f5a01c64cfc1696",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367053345,
+            "stop" : 1561367068339,
+            "duration" : 14994
+          },
+          "flaky" : false,
+          "parameters" : [ "abay_babay", "USA", "Firefox" ]
+        } ],
+        "uid" : "a5cfc4f3ac6cbf966f5a01c64cfc1696"
+      } ],
+      "uid" : "309ad041e0b659ae0239a52c1c96d5b9"
+    } ],
+    "uid" : "c9f3c437ba0a47e7418477eed237d9f0"
+  }, {
+    "name" : "brokenLinkTest",
+    "uid" : "b0716b11edbd299b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1561366997106,
+      "stop" : 1561367021136,
+      "duration" : 24030
+    },
+    "flaky" : false,
+    "parameters" : [ "Chrome" ]
+  } ],
+  "name" : "behaviors"
+}

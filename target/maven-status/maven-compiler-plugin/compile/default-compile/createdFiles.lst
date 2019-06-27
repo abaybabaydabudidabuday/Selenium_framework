@@ -1,0 +1,12 @@
+kz/beeline/test/pages/LoginPage.class
+kz/beeline/test/utilities/JavaUtilResources.class
+kz/beeline/test/dataproviders/TestDataProvider.class
+kz/beeline/test/listeners/TestListenerImpl.class
+kz/beeline/test/pages/LoginMobilePasswordPage.class
+kz/beeline/test/utilities/BrowsersConst.class
+kz/beeline/test/utilities/URLConst.class
+kz/beeline/test/interfaces/TestBase.class
+kz/beeline/test/testcases/BrokenLinksTest.class
+kz/beeline/test/testcases/RegistrationTest.class
+kz/beeline/test/pages/HomePage.class
+kz/beeline/test/interfaces/IPage.class

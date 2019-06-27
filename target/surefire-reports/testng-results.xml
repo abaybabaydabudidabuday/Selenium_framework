@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+    <line>
+      <![CDATA[brokenLinkTest --- Started]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Started]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Started]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Started]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Success]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Success]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Success]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Success]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Success]]>
+    </line>
+    <line>
+      <![CDATA[brokenLinkTest --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Started]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+    <line>
+      <![CDATA[test --- Success]]>
+    </line>
+  </reporter-output>
+  <suite name="Beeline.kz suite 1" duration-ms="82952" started-at="2019-06-25T03:54:05Z" finished-at="2019-06-25T03:55:28Z">
+    <groups>
+    </groups>
+    <test name="Registration ChromeTest" duration-ms="34705" started-at="2019-06-25T03:54:05Z" finished-at="2019-06-25T03:54:40Z">
+      <class name="kz.beeline.test.testcases.RegistrationTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@4bff1903]" name="beforeTest" is-config="true" duration-ms="11158" started-at="2019-06-25T09:54:05Z" finished-at="2019-06-25T09:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@4bff1903]" name="test" duration-ms="8343" started-at="2019-06-25T09:54:16Z" description="Valid Registration Scenario with phone, mail and nickname" data-provider="LoginDataProvider" finished-at="2019-06-25T09:54:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[87086441271]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@4bff1903]" name="test" duration-ms="6842" started-at="2019-06-25T09:54:25Z" description="Valid Registration Scenario with phone, mail and nickname" data-provider="LoginDataProvider" finished-at="2019-06-25T09:54:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ibrayevabay1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@4bff1903]" name="test" duration-ms="7773" started-at="2019-06-25T09:54:32Z" description="Valid Registration Scenario with phone, mail and nickname" data-provider="LoginDataProvider" finished-at="2019-06-25T09:54:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abay_babay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[USA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@4bff1903]" name="afterTest" is-config="true" duration-ms="236" started-at="2019-06-25T09:54:40Z" finished-at="2019-06-25T09:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- kz.beeline.test.testcases.RegistrationTest -->
+    </test> <!-- Registration ChromeTest -->
+    <test name="Broken Link Test" duration-ms="35205" started-at="2019-06-25T03:54:05Z" finished-at="2019-06-25T03:54:40Z">
+      <class name="kz.beeline.test.testcases.BrokenLinksTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:kz.beeline.test.testcases.BrokenLinksTest@4504d271]" name="beforeTest" is-config="true" duration-ms="10945" started-at="2019-06-25T09:54:05Z" finished-at="2019-06-25T09:54:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="brokenLinkTest()[pri:0, instance:kz.beeline.test.testcases.BrokenLinksTest@4504d271]" name="brokenLinkTest" duration-ms="24022" started-at="2019-06-25T09:54:16Z" finished-at="2019-06-25T09:54:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[brokenLinkTest --- Success]]>
+            </line>
+            <line>
+              <![CDATA[brokenLinkTest --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- brokenLinkTest -->
+        <test-method status="PASS" signature="brokenLinkTest()[pri:0, instance:kz.beeline.test.testcases.BrokenLinksTest@4504d271]" name="brokenLinkTest" duration-ms="23606" started-at="2019-06-25T09:54:16Z" finished-at="2019-06-25T09:54:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[brokenLinkTest --- Success]]>
+            </line>
+            <line>
+              <![CDATA[brokenLinkTest --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- brokenLinkTest -->
+        <test-method status="PASS" signature="brokenLinkTest()[pri:0, instance:kz.beeline.test.testcases.BrokenLinksTest@4504d271]" name="brokenLinkTest" duration-ms="23979" started-at="2019-06-25T09:54:16Z" finished-at="2019-06-25T09:54:40Z">
+          <reporter-output>
+            <line>
+              <![CDATA[brokenLinkTest --- Success]]>
+            </line>
+            <line>
+              <![CDATA[brokenLinkTest --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- brokenLinkTest -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:kz.beeline.test.testcases.BrokenLinksTest@4504d271]" name="afterTest" is-config="true" duration-ms="130" started-at="2019-06-25T09:54:40Z" finished-at="2019-06-25T09:54:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- kz.beeline.test.testcases.BrokenLinksTest -->
+    </test> <!-- Broken Link Test -->
+    <test name="Registration FirefoxTest" duration-ms="48216" started-at="2019-06-25T03:54:40Z" finished-at="2019-06-25T03:55:28Z">
+      <class name="kz.beeline.test.testcases.RegistrationTest">
+        <test-method status="PASS" signature="beforeTest(java.lang.String)[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@636e8cc]" name="beforeTest" is-config="true" duration-ms="7278" started-at="2019-06-25T09:54:40Z" finished-at="2019-06-25T09:54:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@636e8cc]" name="test" duration-ms="12262" started-at="2019-06-25T09:54:47Z" description="Valid Registration Scenario with phone, mail and nickname" data-provider="LoginDataProvider" finished-at="2019-06-25T09:54:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[87086441271]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@636e8cc]" name="test" duration-ms="14917" started-at="2019-06-25T09:54:59Z" description="Valid Registration Scenario with phone, mail and nickname" data-provider="LoginDataProvider" finished-at="2019-06-25T09:55:14Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ibrayevabay1@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[UK]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String)[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@636e8cc]" name="test" duration-ms="13506" started-at="2019-06-25T09:55:14Z" description="Valid Registration Scenario with phone, mail and nickname" data-provider="LoginDataProvider" finished-at="2019-06-25T09:55:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[abay_babay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[USA]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+            <line>
+              <![CDATA[test --- Success]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:kz.beeline.test.testcases.RegistrationTest@636e8cc]" name="afterTest" is-config="true" duration-ms="250" started-at="2019-06-25T09:55:28Z" finished-at="2019-06-25T09:55:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- kz.beeline.test.testcases.RegistrationTest -->
+    </test> <!-- Registration FirefoxTest -->
+  </suite> <!-- Beeline.kz suite 1 -->
+</testng-results>

@@ -1,0 +1,101 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "kz.beeline.test.testcases",
+    "children" : [ {
+      "name" : "RegistrationTest",
+      "children" : [ {
+        "name" : "test",
+        "uid" : "c0c7848016709527",
+        "parentUid" : "52b89fa6e4e111e338d9af3ac211f4c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561366997106,
+          "stop" : 1561367004975,
+          "duration" : 7869
+        },
+        "flaky" : false,
+        "parameters" : [ "87086441271", "India", "Chrome" ]
+      }, {
+        "name" : "test",
+        "uid" : "20f8eb2eadbd4d0",
+        "parentUid" : "52b89fa6e4e111e338d9af3ac211f4c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367005123,
+          "stop" : 1561367012427,
+          "duration" : 7304
+        },
+        "flaky" : false,
+        "parameters" : [ "ibrayevabay1@gmail.com", "UK", "Chrome" ]
+      }, {
+        "name" : "test",
+        "uid" : "79e8da1f3a723b46",
+        "parentUid" : "52b89fa6e4e111e338d9af3ac211f4c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367012436,
+          "stop" : 1561367019559,
+          "duration" : 7123
+        },
+        "flaky" : false,
+        "parameters" : [ "abay_babay", "USA", "Chrome" ]
+      }, {
+        "name" : "test",
+        "uid" : "15e3c06bee34ec63",
+        "parentUid" : "52b89fa6e4e111e338d9af3ac211f4c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367026776,
+          "stop" : 1561367039442,
+          "duration" : 12666
+        },
+        "flaky" : false,
+        "parameters" : [ "87086441271", "India", "Firefox" ]
+      }, {
+        "name" : "test",
+        "uid" : "3208630afe6cee80",
+        "parentUid" : "52b89fa6e4e111e338d9af3ac211f4c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367039445,
+          "stop" : 1561367053343,
+          "duration" : 13898
+        },
+        "flaky" : false,
+        "parameters" : [ "ibrayevabay1@gmail.com", "UK", "Firefox" ]
+      }, {
+        "name" : "test",
+        "uid" : "a9f70318172558ef",
+        "parentUid" : "52b89fa6e4e111e338d9af3ac211f4c0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367053345,
+          "stop" : 1561367068339,
+          "duration" : 14994
+        },
+        "flaky" : false,
+        "parameters" : [ "abay_babay", "USA", "Firefox" ]
+      } ],
+      "uid" : "52b89fa6e4e111e338d9af3ac211f4c0"
+    }, {
+      "name" : "BrokenLinksTest",
+      "children" : [ {
+        "name" : "brokenLinkTest",
+        "uid" : "b0716b11edbd299b",
+        "parentUid" : "66fed4a049576612820cc00ce1f7e38c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561366997106,
+          "stop" : 1561367021136,
+          "duration" : 24030
+        },
+        "flaky" : false,
+        "parameters" : [ "Chrome" ]
+      } ],
+      "uid" : "66fed4a049576612820cc00ce1f7e38c"
+    } ],
+    "uid" : "kz.beeline.test.testcases"
+  } ],
+  "name" : "packages"
+}

@@ -1,0 +1,158 @@
+{
+  "uid" : "20f8eb2eadbd4d0",
+  "name" : "Valid Registration Scenario with phone, mail and nickname",
+  "fullName" : "kz.beeline.test.testcases.RegistrationTest.test",
+  "historyId" : "75fe0e90234a5f83e8f2c8bac365654f",
+  "time" : {
+    "start" : 1561367005123,
+    "stop" : 1561367012427,
+    "duration" : 7304
+  },
+  "description" : "Test Description: Registration Test with phone,mail and nickname",
+  "descriptionHtml" : "<p>Test Description: Registration Test with phone,mail and nickname</p>\n",
+  "status" : "passed",
+  "statusDetails" : {
+    "flaky" : false
+  },
+  "beforeStages" : [ {
+    "name" : "beforeTest",
+    "time" : {
+      "start" : 1561366991172,
+      "stop" : 1561366996942,
+      "duration" : 5770
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "passed",
+    "statusDetails" : {
+      "flaky" : false
+    },
+    "steps" : [ {
+      "name" : "Verify Page - Home page is beeline.kz",
+      "time" : {
+        "start" : 1561367005124,
+        "stop" : 1561367005158,
+        "duration" : 34
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "goToHomePage - beeline.kz URL",
+      "time" : {
+        "start" : 1561367009823,
+        "stop" : 1561367012427,
+        "duration" : 2604
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "afterTest",
+    "time" : {
+      "start" : 1561367019563,
+      "stop" : 1561367019733,
+      "duration" : 170
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : "kz.beeline.test.testcases.RegistrationTest"
+  }, {
+    "name" : "testClass",
+    "value" : "kz.beeline.test.testcases.RegistrationTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "test"
+  }, {
+    "name" : "parentSuite",
+    "value" : "Beeline.kz suite 1"
+  }, {
+    "name" : "suite",
+    "value" : "Registration ChromeTest"
+  }, {
+    "name" : "subSuite",
+    "value" : "kz.beeline.test.testcases.RegistrationTest"
+  }, {
+    "name" : "host",
+    "value" : "dabudidabuday-HP-Beeline"
+  }, {
+    "name" : "thread",
+    "value" : "3715@dabudidabuday-HP-Beeline.TestNG(14)"
+  }, {
+    "name" : "epic",
+    "value" : "Regression tests"
+  }, {
+    "name" : "feature",
+    "value" : "Login tests"
+  }, {
+    "name" : "story",
+    "value" : "Registration story"
+  }, {
+    "name" : "severity",
+    "value" : "blocker"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "arg0",
+    "value" : "ibrayevabay1@gmail.com"
+  }, {
+    "name" : "arg1",
+    "value" : "UK"
+  }, {
+    "name" : "browser",
+    "value" : "Chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "extra" : {
+    "severity" : "blocker",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "20f8eb2eadbd4d0.json",
+  "statusDetailsSafe" : {
+    "flaky" : false
+  },
+  "statusMessage" : {
+    "present" : false
+  },
+  "parameterValues" : [ "ibrayevabay1@gmail.com", "UK", "Chrome" ]
+}

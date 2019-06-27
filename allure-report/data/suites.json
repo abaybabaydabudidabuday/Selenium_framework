@@ -1,0 +1,117 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Beeline.kz suite 1",
+    "children" : [ {
+      "name" : "Registration ChromeTest",
+      "children" : [ {
+        "name" : "kz.beeline.test.testcases.RegistrationTest",
+        "children" : [ {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "c0c7848016709527",
+          "parentUid" : "03ef8ab146408e3ccad2829fa9eb7a61",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561366997106,
+            "stop" : 1561367004975,
+            "duration" : 7869
+          },
+          "flaky" : false,
+          "parameters" : [ "87086441271", "India", "Chrome" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "20f8eb2eadbd4d0",
+          "parentUid" : "03ef8ab146408e3ccad2829fa9eb7a61",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367005123,
+            "stop" : 1561367012427,
+            "duration" : 7304
+          },
+          "flaky" : false,
+          "parameters" : [ "ibrayevabay1@gmail.com", "UK", "Chrome" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "79e8da1f3a723b46",
+          "parentUid" : "03ef8ab146408e3ccad2829fa9eb7a61",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367012436,
+            "stop" : 1561367019559,
+            "duration" : 7123
+          },
+          "flaky" : false,
+          "parameters" : [ "abay_babay", "USA", "Chrome" ]
+        } ],
+        "uid" : "03ef8ab146408e3ccad2829fa9eb7a61"
+      } ],
+      "uid" : "f31c608f2f20b2caab88aa8ab372fe38"
+    }, {
+      "name" : "Broken Link Test",
+      "children" : [ {
+        "name" : "kz.beeline.test.testcases.BrokenLinksTest",
+        "children" : [ {
+          "name" : "brokenLinkTest",
+          "uid" : "b0716b11edbd299b",
+          "parentUid" : "2a76846fa8131ee995237289e6f06aad",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561366997106,
+            "stop" : 1561367021136,
+            "duration" : 24030
+          },
+          "flaky" : false,
+          "parameters" : [ "Chrome" ]
+        } ],
+        "uid" : "2a76846fa8131ee995237289e6f06aad"
+      } ],
+      "uid" : "09196d20a7c132c5f7913092c7c1ef0c"
+    }, {
+      "name" : "Registration FirefoxTest",
+      "children" : [ {
+        "name" : "kz.beeline.test.testcases.RegistrationTest",
+        "children" : [ {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "15e3c06bee34ec63",
+          "parentUid" : "cd18134cb2146ddae5f82ea9556fab72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367026776,
+            "stop" : 1561367039442,
+            "duration" : 12666
+          },
+          "flaky" : false,
+          "parameters" : [ "87086441271", "India", "Firefox" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "3208630afe6cee80",
+          "parentUid" : "cd18134cb2146ddae5f82ea9556fab72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367039445,
+            "stop" : 1561367053343,
+            "duration" : 13898
+          },
+          "flaky" : false,
+          "parameters" : [ "ibrayevabay1@gmail.com", "UK", "Firefox" ]
+        }, {
+          "name" : "Valid Registration Scenario with phone, mail and nickname",
+          "uid" : "a9f70318172558ef",
+          "parentUid" : "cd18134cb2146ddae5f82ea9556fab72",
+          "status" : "passed",
+          "time" : {
+            "start" : 1561367053345,
+            "stop" : 1561367068339,
+            "duration" : 14994
+          },
+          "flaky" : false,
+          "parameters" : [ "abay_babay", "USA", "Firefox" ]
+        } ],
+        "uid" : "cd18134cb2146ddae5f82ea9556fab72"
+      } ],
+      "uid" : "15d323fd0e8462af8b2301f3368e8a1a"
+    } ],
+    "uid" : "0e2c9400a74c539184eb8c142e90fe7f"
+  } ],
+  "name" : "suites"
+}

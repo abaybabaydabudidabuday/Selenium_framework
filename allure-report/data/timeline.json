@@ -1,0 +1,101 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "dabudidabuday-HP-Beeline",
+    "children" : [ {
+      "name" : "3715@dabudidabuday-HP-Beeline.TestNG(14)",
+      "children" : [ {
+        "name" : "Valid Registration Scenario with phone, mail and nickname",
+        "uid" : "79e8da1f3a723b46",
+        "parentUid" : "62dbce13a9624fa9e6410442f7464096",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367012436,
+          "stop" : 1561367019559,
+          "duration" : 7123
+        },
+        "flaky" : false,
+        "parameters" : [ "abay_babay", "USA", "Chrome" ]
+      }, {
+        "name" : "Valid Registration Scenario with phone, mail and nickname",
+        "uid" : "15e3c06bee34ec63",
+        "parentUid" : "62dbce13a9624fa9e6410442f7464096",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367026776,
+          "stop" : 1561367039442,
+          "duration" : 12666
+        },
+        "flaky" : false,
+        "parameters" : [ "87086441271", "India", "Firefox" ]
+      }, {
+        "name" : "Valid Registration Scenario with phone, mail and nickname",
+        "uid" : "a9f70318172558ef",
+        "parentUid" : "62dbce13a9624fa9e6410442f7464096",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367053345,
+          "stop" : 1561367068339,
+          "duration" : 14994
+        },
+        "flaky" : false,
+        "parameters" : [ "abay_babay", "USA", "Firefox" ]
+      }, {
+        "name" : "Valid Registration Scenario with phone, mail and nickname",
+        "uid" : "3208630afe6cee80",
+        "parentUid" : "62dbce13a9624fa9e6410442f7464096",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367039445,
+          "stop" : 1561367053343,
+          "duration" : 13898
+        },
+        "flaky" : false,
+        "parameters" : [ "ibrayevabay1@gmail.com", "UK", "Firefox" ]
+      }, {
+        "name" : "Valid Registration Scenario with phone, mail and nickname",
+        "uid" : "c0c7848016709527",
+        "parentUid" : "62dbce13a9624fa9e6410442f7464096",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561366997106,
+          "stop" : 1561367004975,
+          "duration" : 7869
+        },
+        "flaky" : false,
+        "parameters" : [ "87086441271", "India", "Chrome" ]
+      }, {
+        "name" : "Valid Registration Scenario with phone, mail and nickname",
+        "uid" : "20f8eb2eadbd4d0",
+        "parentUid" : "62dbce13a9624fa9e6410442f7464096",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561367005123,
+          "stop" : 1561367012427,
+          "duration" : 7304
+        },
+        "flaky" : false,
+        "parameters" : [ "ibrayevabay1@gmail.com", "UK", "Chrome" ]
+      } ],
+      "uid" : "62dbce13a9624fa9e6410442f7464096"
+    }, {
+      "name" : "3715@dabudidabuday-HP-Beeline.TestNG(26)",
+      "children" : [ {
+        "name" : "brokenLinkTest",
+        "uid" : "b0716b11edbd299b",
+        "parentUid" : "cf8581b3ef7b8509aa89079985954f15",
+        "status" : "passed",
+        "time" : {
+          "start" : 1561366997106,
+          "stop" : 1561367021136,
+          "duration" : 24030
+        },
+        "flaky" : false,
+        "parameters" : [ "Chrome" ]
+      } ],
+      "uid" : "cf8581b3ef7b8509aa89079985954f15"
+    } ],
+    "uid" : "f9922f453c8d4cd827ff72e08a3a3c11"
+  } ],
+  "name" : "timeline"
+}
